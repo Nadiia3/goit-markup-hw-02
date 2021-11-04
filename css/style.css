@@ -1,5 +1,37 @@
 body {
-    /* font-family: Roboto; sans-serif*/
+    font-family: Roboto;
+    color: #E5E5E5;}
 
+    .site-nav
+
+
+main {
+    
+}
+
+.title2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #212121;
+}
+
+.name {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #212121;
+}
+.work-position {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #757575;
 }
 
