@@ -1,3 +1,14 @@
+:root {
+    --main-title-color: #ffffff;
+    --second-title-color: #212121;
+    --main-text-color: #757575;
+    --second-text-color: color: rgba(255, 255, 255, 0.6);
+
+}
+
+
+
+
 body {
     font-family: Roboto;
     color: #E5E5E5;}
