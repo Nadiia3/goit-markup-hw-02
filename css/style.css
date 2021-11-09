@@ -86,7 +86,7 @@ list-style: none;
      display: flex;
      text-align: center;
      letter-spacing: 0.63em;
-     color: var(--second-title-color);
+     color: black;
      background: #f5f4fa;;
      border-radius: 4px; 
  }
