@@ -203,10 +203,6 @@ color: var(--accent-color);
      background: #f5f4fa;;
      border-radius: 4px; 
 }
-.portfolio-btn:hover  {
-    color: var(--accent-color);
-}
-
 .portfolio-btn:hover,
 .portfolio-btn:focus {
   font-weight: 500;
